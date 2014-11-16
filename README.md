@@ -11,6 +11,4 @@ Make sure to have the following in your path
 
 ##RUN IN TERMINAL
     - sudo npm install
-    - sudo npm install grunt-contrib-concat --save-dev
-    - sudo npm install grunt-ember-templates --save-dev
     - grunt
